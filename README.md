@@ -1,2 +1,1 @@
-# my-first-project
-beginner
+<!doctype html>
